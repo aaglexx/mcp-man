@@ -2941,6 +2941,21 @@
           "required": true
         }
       ]
+    },
+    {
+      "name": "process-street",
+      "description": "Connect AI agents to Process Street workflows, tasks, runs, data sets, and operational records.",
+      "url": "https://github.com/process-street/process-street-mcp",
+      "tags": [
+        "workflow-automation",
+        "task-management",
+        "productivity",
+        "official",
+        "remote"
+      ],
+      "author": "Process Street",
+      "license": "Proprietary",
+      "env": []
     }
   ]
 }
